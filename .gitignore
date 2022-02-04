@@ -114,3 +114,5 @@ output.log
 
 # setuptools-scm
 kq/version.py
+
+kq_dev/
